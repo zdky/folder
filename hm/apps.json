@@ -2,7 +2,7 @@
   "Bike": {
     "appToken": "d28721be-fd2d-4b45-869e-9f253b554e50",
     "promoId": "43e35910-c168-4634-ad4f-52fd764a843f",
-    "event_timeout": 37,
+    "event_timeout": 38,
     "headers": {},
     "event_data": { "eventOrigin": "undefined" },
     "login_client": { "clientOrigin": "deviceid" },
@@ -11,7 +11,7 @@
   "Clone": {
     "appToken": "74ee0b5b-775e-4bee-974f-63e7f4d5bacb",
     "promoId": "fe693b26-b342-4159-8808-15e3ff7f8767",
-    "event_timeout": 312,
+    "event_timeout": 143,
     "headers": {
       "User-Agent": "UnityPlayer/2022.3.28f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
       "X-Unity-Version": "2022.3.28f1"
@@ -76,7 +76,7 @@
   "Twerk": {
     "appToken": "61308365-9d16-4040-8bb0-2f4a4c69074c",
     "promoId": "61308365-9d16-4040-8bb0-2f4a4c69074c",
-    "event_timeout": 61,
+    "event_timeout": 57,
     "headers": {
       "User-Agent": "UnityPlayer/2021.3.15f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
       "X-Unity-Version": "2021.3.15f1"
