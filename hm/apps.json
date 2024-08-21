@@ -87,5 +87,23 @@
     },
     "login_client": { "clientOrigin": "android" },
     "client_id_method": "time_random"
+  },
+  "Poly": {
+    "appToken": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
+    "promoId": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
+    "event_timeout": 20,
+    "headers": {
+      "User-Agent": "UnityPlayer/2021.3.39f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2021.3.39f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "test"
+    },
+    "login_client": {
+      "clientOrigin": "android",
+      "clientVersion": "1.15.2"
+    },
+    "client_id_method": "uuid4"
   }
 }
