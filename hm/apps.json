@@ -105,5 +105,35 @@
       "clientVersion": "1.15.2"
     },
     "client_id_method": "uuid4"
+  },
+  "Mud": {
+    "appToken": "8814a785-97fb-4177-9193-ca4180ff9da8",
+    "promoId": "8814a785-97fb-4177-9193-ca4180ff9da8",
+    "event_timeout": 38,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.40f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.40f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "racing"
+    },
+    "login_client": { "clientOrigin": "android" },
+    "client_id_method": "uuid4"
+  },
+  "Mow": {
+    "appToken": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
+    "promoId": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
+    "event_timeout": 37,
+    "headers": {
+      "User-Agent": "UnityPlayer/2021.3.17f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
+      "X-Unity-Version": "2021.3.17f1"
+    },
+    "event_data": {
+      "eventId": "StartLevel",
+      "eventOrigin": "undefined"
+    },
+    "login_client": { "clientOrigin": "android" },
+    "client_id_method": "time_random"
   }
 }
