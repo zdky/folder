@@ -8,21 +8,6 @@
     "login_client": { "clientOrigin": "deviceid" },
     "client_id_method": "time_random"
   },
-  "Clone": {
-    "appToken": "74ee0b5b-775e-4bee-974f-63e7f4d5bacb",
-    "promoId": "fe693b26-b342-4159-8808-15e3ff7f8767",
-    "event_timeout": 143,
-    "headers": {
-      "User-Agent": "UnityPlayer/2022.3.28f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-      "X-Unity-Version": "2022.3.28f1"
-    },
-    "event_data": {
-      "eventType": "MiniQuest",
-      "eventOrigin": "undefined"
-    },
-    "login_client": { "clientOrigin": "android" },
-    "client_id_method": "random_hex"
-  },
   "Chain": {
     "appToken": "d1690a07-3780-4068-810f-9b5bbf2931b2",
     "promoId": "b4170868-cef0-424f-8eb9-be0622e8e8e3",
