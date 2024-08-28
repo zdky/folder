@@ -6,7 +6,8 @@
     "headers": {},
     "event_data": { "eventOrigin": "undefined" },
     "login_client": { "clientOrigin": "deviceid" },
-    "client_id_method": "time_random"
+    "client_id_method": "time_random",
+    "event_id_method": "uuid4"
   },
   "Chain": {
     "appToken": "d1690a07-3780-4068-810f-9b5bbf2931b2",
@@ -21,7 +22,8 @@
       "eventType": "cube_sent"
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "1.78.30" },
-    "client_id_method": "uuid4"
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4"
   },
   "Train": {
     "appToken": "82647f43-3f87-402d-88dd-09a90025313f",
@@ -36,7 +38,8 @@
       "eventType": "hitStatue"
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "2.4.7" },
-    "client_id_method": "random_hex"
+    "client_id_method": "random_hex",
+    "event_id_method": "uuid4"
   },
   "Merge": {
     "appToken": "8d1cc2ad-e097-4b86-90ef-7a27e19fb833",
@@ -56,7 +59,8 @@
       "eventType": "spend-energy"
     },
     "login_client": { "clientOrigin": "android" },
-    "client_id_method": "time_random"
+    "client_id_method": "time_random",
+    "event_id_method": "uuid4"
   },
   "Twerk": {
     "appToken": "61308365-9d16-4040-8bb0-2f4a4c69074c",
@@ -71,7 +75,8 @@
       "eventOrigin": "undefined"
     },
     "login_client": { "clientOrigin": "android" },
-    "client_id_method": "time_random"
+    "client_id_method": "time_random",
+    "event_id_method": "uuid4"
   },
   "Poly": {
     "appToken": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
@@ -89,7 +94,8 @@
       "clientOrigin": "android",
       "clientVersion": "1.15.2"
     },
-    "client_id_method": "uuid4"
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4"
   },
   "Mud": {
     "appToken": "8814a785-97fb-4177-9193-ca4180ff9da8",
@@ -104,7 +110,8 @@
       "eventType": "racing"
     },
     "login_client": { "clientOrigin": "android" },
-    "client_id_method": "uuid4"
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4"
   },
   "Mow": {
     "appToken": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
@@ -119,6 +126,22 @@
       "eventOrigin": "undefined"
     },
     "login_client": { "clientOrigin": "android" },
-    "client_id_method": "time_random"
+    "client_id_method": "time_random",
+    "event_id_method": "uuid4"
+  },
+  "Cafe": {
+    "appToken": "bc0971b8-04df-4e72-8a3e-ec4dc663cd11",
+    "promoId": "bc0971b8-04df-4e72-8a3e-ec4dc663cd11",
+    "event_timeout": 38,
+    "headers": {
+      "User-Agent": "Mozilla/5.0"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "5visitorsChecks"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "2.24.0" },
+    "client_id_method": "random_hex_16",
+    "event_id_method": "unix_time"
   }
 }
