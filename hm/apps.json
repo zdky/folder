@@ -38,7 +38,7 @@
       "eventType": "hitStatue"
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "2.4.7" },
-    "client_id_method": "random_hex",
+    "client_id_method": "random_hex_32",
     "event_id_method": "uuid4"
   },
   "Merge": {
@@ -157,7 +157,7 @@
       "eventType": "ZoopolisEvent"
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "1.2.7" },
-    "client_id_method": "random_hex",
+    "client_id_method": "random_hex_32",
     "event_id_method": "uuid4"
   },
   "Gangs": {
