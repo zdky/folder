@@ -13,7 +13,8 @@
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "1.78.30" },
     "client_id_method": "uuid4",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
   },
   "Train": {
     "appToken": "82647f43-3f87-402d-88dd-09a90025313f",
@@ -29,7 +30,8 @@
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "2.4.7" },
     "client_id_method": "random_hex_32",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
   },
   "Merge": {
     "appToken": "8d1cc2ad-e097-4b86-90ef-7a27e19fb833",
@@ -50,7 +52,8 @@
     },
     "login_client": { "clientOrigin": "android" },
     "client_id_method": "time_random",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
   },
   "Twerk": {
     "appToken": "61308365-9d16-4040-8bb0-2f4a4c69074c",
@@ -66,7 +69,8 @@
     },
     "login_client": { "clientOrigin": "android" },
     "client_id_method": "time_random",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
   },
   "Poly": {
     "appToken": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
@@ -85,7 +89,8 @@
       "clientVersion": "1.15.2"
     },
     "client_id_method": "uuid4",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
   },
   "Mow": {
     "appToken": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
@@ -101,7 +106,8 @@
     },
     "login_client": { "clientOrigin": "android" },
     "client_id_method": "time_random",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
   },
   "Zoo": {
     "appToken": "b2436c89-e0aa-4aed-8046-9b0515e1c46b",
@@ -117,6 +123,38 @@
     },
     "login_client": { "clientOrigin": "android", "clientVersion": "1.2.7" },
     "client_id_method": "random_hex_32",
-    "event_id_method": "uuid4"
+    "event_id_method": "uuid4",
+    "api_type": ""
+  },
+  "Stone": {
+    "appToken": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
+    "promoId": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
+    "event_timeout": 23,
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-G9880 Build/PQ3B.190801.04011457)"
+    },
+    "event_data": {
+      "eventOrigin": "undefined"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.113.113" },
+    "client_id_method": "big_hex_16",
+    "event_id_method": "random_7",
+    "api_type": "1/"
+  },
+  "Tile": {
+    "appToken": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
+    "promoId": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
+    "event_timeout": 120,
+    "headers": {
+      "User-Agent": "UnityPlayer/2020.3.48f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
+      "X-Unity-Version": "2020.3.48f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined"
+    },
+    "login_client": { "clientOrigin": "deviceid", "clientVersion": "12.4.57" },
+    "client_id_method": "random_7",
+    "event_id_method": "random_7",
+    "api_type": "1/"
   }
 }
