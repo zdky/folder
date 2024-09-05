@@ -150,11 +150,12 @@
       "X-Unity-Version": "2020.3.48f1"
     },
     "event_data": {
-      "eventOrigin": "undefined"
+      "eventOrigin": "undefined",
+      "eventType": "gt_progress"
     },
     "login_client": { "clientOrigin": "deviceid", "clientVersion": "12.4.57" },
     "client_id_method": "random_7",
-    "event_id_method": "random_7",
+    "event_id_method": "uuid4",
     "api_type": "1/"
   }
 }
