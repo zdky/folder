@@ -139,7 +139,8 @@
     "login_client": { "clientOrigin": "android", "clientVersion": "1.113.113" },
     "client_id_method": "big_hex_16",
     "event_id_method": "random_7",
-    "api_type": "1/"
+    "api_type": "1/",
+    "get_client_count": 3
   },
   "Tile": {
     "appToken": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
@@ -156,7 +157,8 @@
     "login_client": { "clientOrigin": "deviceid", "clientVersion": "12.4.57" },
     "client_id_method": "random_7",
     "event_id_method": "uuid4",
-    "api_type": "1/"
+    "api_type": "1/",
+    "get_client_count": 1
   },
   "Fluff": {
     "appToken": "112887b0-a8af-4eb2-ac63-d82df78283d9",
@@ -172,6 +174,7 @@
     "login_client": { "clientOrigin": "deviceid" },
     "client_id_method": "uuid4",
     "event_id_method": "uuid4",
-    "api_type": "1/"
+    "api_type": "1/",
+    "get_client_count": 1
   }
 }
