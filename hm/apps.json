@@ -157,5 +157,21 @@
     "client_id_method": "random_7",
     "event_id_method": "uuid4",
     "api_type": "1/"
+  },
+  "Fluff": {
+    "appToken": "112887b0-a8af-4eb2-ac63-d82df78283d9",
+    "promoId": "112887b0-a8af-4eb2-ac63-d82df78283d9",
+    "event_timeout": 185,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.27f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.27f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined"
+    },
+    "login_client": { "clientOrigin": "deviceid" },
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4",
+    "api_type": "1/"
   }
 }
