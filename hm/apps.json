@@ -176,5 +176,23 @@
     "event_id_method": "uuid4",
     "api_type": "1/",
     "get_client_count": 1
+  },
+  "Bounce": {
+    "appToken": "bc72d3b9-8e91-4884-9c33-f72482f0db37",
+    "promoId": "bc72d3b9-8e91-4884-9c33-f72482f0db37",
+    "event_timeout": 60,
+    "headers": {
+      "User-Agent": "UnityPlayer/2021.3.15f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
+      "X-Unity-Version": "2021.3.15f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "test"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "2.4.2" },
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 0
   }
 }
