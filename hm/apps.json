@@ -194,5 +194,23 @@
     "event_id_method": "uuid4",
     "api_type": "1/",
     "get_client_count": 0
+  },
+  "HideBall": {
+    "appToken": "4bf4966c-4d22-439b-8ff2-dc5ebca1a600",
+    "promoId": "4bf4966c-4d22-439b-8ff2-dc5ebca1a600",
+    "event_timeout": 32,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.38f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.38f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "undefined"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.2.4" },
+    "client_id_method": "random_hex_32",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 0
   }
 }
