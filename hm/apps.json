@@ -212,5 +212,41 @@
     "event_id_method": "uuid4",
     "api_type": "1/",
     "get_client_count": 0
+  },
+  "PinOut": {
+    "appToken": "d2378baf-d617-417a-9d99-d685824335f0",
+    "promoId": "d2378baf-d617-417a-9d99-d685824335f0",
+    "event_timeout": 34,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.41f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.41f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "undefined"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.2.6" },
+    "client_id_method": "random_hex_32",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 0
+  },
+  "CountMasters": {
+    "appToken": "4bdc17da-2601-449b-948e-f8c7bd376553",
+    "promoId": "4bdc17da-2601-449b-948e-f8c7bd376553",
+    "event_timeout": 33,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.30f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.30f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventId": "StartLevel"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.83.10" },
+    "client_id_method": "time_random",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 1
   }
 }
