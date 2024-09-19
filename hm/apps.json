@@ -248,5 +248,58 @@
     "event_id_method": "uuid4",
     "api_type": "1/",
     "get_client_count": 1
+  },
+  "FactoryWorld": {
+    "appToken": "d02fc404-8985-4305-87d8-32bd4e66bb16",
+    "promoId": "d02fc404-8985-4305-87d8-32bd4e66bb16",
+    "event_timeout": 120,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.46f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.46f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "HamsterGathred"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.43.18" },
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 1
+  },
+  "AmongWater": {
+    "appToken": "daab8f83-8ea2-4ad0-8dd5-d33363129640",
+    "promoId": "daab8f83-8ea2-4ad0-8dd5-d33363129640",
+    "event_timeout": 120,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.46f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.46f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.0.40" },
+    "client_id_method": "random_hex_32",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 6
+  },
+  "InfectedFrontier": {
+    "appToken": "eb518c4b-e448-4065-9d33-06f3039f0fcb",
+    "promoId": "eb518c4b-e448-4065-9d33-06f3039f0fcb",
+    "event_timeout": 150,
+    "headers": {
+      "User-Agent": "UnityPlayer/2022.3.21f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.21f1"
+    },
+    "event_data": {
+      "eventOrigin": "undefined",
+      "eventType": "biker"
+    },
+    "login_client": { "clientOrigin": "android" },
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4",
+    "api_type": "",
+    "get_client_count": 0
   }
 }
