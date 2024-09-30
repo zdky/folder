@@ -301,5 +301,21 @@
     "event_id_method": "uuid4",
     "api_type": "",
     "get_client_count": 0
+  },
+  "CookingStories": {
+    "appToken": "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054",
+    "promoId": "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054",
+    "event_timeout": 61,
+    "headers": {
+      "User-Agent": ""
+    },
+    "event_data": {
+      "eventOrigin": "undefined"
+    },
+    "login_client": { "clientOrigin": "android", "clientVersion": "0.114.25" },
+    "client_id_method": "uuid4",
+    "event_id_method": "uuid4",
+    "api_type": "1/",
+    "get_client_count": 0
   }
 }
