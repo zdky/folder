@@ -142,24 +142,6 @@
     "api_type": "1/",
     "get_client_count": 3
   },
-  "Tile": {
-    "appToken": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
-    "promoId": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
-    "event_timeout": 120,
-    "headers": {
-      "User-Agent": "UnityPlayer/2020.3.48f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-      "X-Unity-Version": "2020.3.48f1"
-    },
-    "event_data": {
-      "eventOrigin": "undefined",
-      "eventType": "gt_progress"
-    },
-    "login_client": { "clientOrigin": "deviceid", "clientVersion": "12.4.57" },
-    "client_id_method": "random_7",
-    "event_id_method": "uuid4",
-    "api_type": "1/",
-    "get_client_count": 1
-  },
   "Fluff": {
     "appToken": "112887b0-a8af-4eb2-ac63-d82df78283d9",
     "promoId": "112887b0-a8af-4eb2-ac63-d82df78283d9",
