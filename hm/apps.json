@@ -302,20 +302,22 @@
     "api_type": "",
     "get_client_count": 0
   },
-  "CookingStories": {
-    "appToken": "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054",
-    "promoId": "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054",
-    "event_timeout": 61,
+  "SnakeRun": {
+    "appToken": "c8e017e2-8817-4d02-bce6-b951e74bb18f",
+    "promoId": "c8e017e2-8817-4d02-bce6-b951e74bb18f",
+    "event_timeout": 55,
     "headers": {
-      "User-Agent": ""
+      "User-Agent": "UnityPlayer/2022.3.30f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+      "X-Unity-Version": "2022.3.30f1"
     },
     "event_data": {
+      "eventId": "StartLevel",
       "eventOrigin": "undefined"
     },
-    "login_client": { "clientOrigin": "android", "clientVersion": "0.114.25" },
-    "client_id_method": "uuid4",
-    "event_id_method": "uuid4",
+    "login_client": { "clientOrigin": "android", "clientVersion": "1.34.15" },
+    "client_id_method": "time_random",
+    "event_id_method": false,
     "api_type": "1/",
-    "get_client_count": 0
+    "get_client_count": 1
   }
 }
