@@ -1,5 +1,5 @@
 {
-  "Chain": {
+  "Chain Cube 2048": {
     "appToken": "d1690a07-3780-4068-810f-9b5bbf2931b2",
     "promoId": "b4170868-cef0-424f-8eb9-be0622e8e8e3",
     "event_timeout": 53,
@@ -16,7 +16,7 @@
     "event_id_method": "uuid4",
     "api_type": ""
   },
-  "Train": {
+  "Train Miner": {
     "appToken": "82647f43-3f87-402d-88dd-09a90025313f",
     "promoId": "c4480ac7-e178-4973-8061-9ed5b2e17954",
     "event_timeout": 614,
@@ -33,7 +33,7 @@
     "event_id_method": "uuid4",
     "api_type": ""
   },
-  "Merge": {
+  "Merge Away": {
     "appToken": "8d1cc2ad-e097-4b86-90ef-7a27e19fb833",
     "promoId": "dc128d28-c45b-411c-98ff-ac7726fbaea4",
     "event_timeout": 37,
@@ -55,24 +55,7 @@
     "event_id_method": "uuid4",
     "api_type": ""
   },
-  "Twerk": {
-    "appToken": "61308365-9d16-4040-8bb0-2f4a4c69074c",
-    "promoId": "61308365-9d16-4040-8bb0-2f4a4c69074c",
-    "event_timeout": 57,
-    "headers": {
-      "User-Agent": "UnityPlayer/2021.3.15f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-      "X-Unity-Version": "2021.3.15f1"
-    },
-    "event_data": {
-      "eventId": "StartLevel",
-      "eventOrigin": "undefined"
-    },
-    "login_client": { "clientOrigin": "android" },
-    "client_id_method": "time_random",
-    "event_id_method": "uuid4",
-    "api_type": ""
-  },
-  "Poly": {
+  "Polysphere": {
     "appToken": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
     "promoId": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
     "event_timeout": 20,
@@ -92,24 +75,7 @@
     "event_id_method": "uuid4",
     "api_type": ""
   },
-  "Mow": {
-    "appToken": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
-    "promoId": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
-    "event_timeout": 37,
-    "headers": {
-      "User-Agent": "UnityPlayer/2021.3.17f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-      "X-Unity-Version": "2021.3.17f1"
-    },
-    "event_data": {
-      "eventId": "StartLevel",
-      "eventOrigin": "undefined"
-    },
-    "login_client": { "clientOrigin": "android" },
-    "client_id_method": "time_random",
-    "event_id_method": "uuid4",
-    "api_type": ""
-  },
-  "Zoo": {
+  "Zoopolis": {
     "appToken": "b2436c89-e0aa-4aed-8046-9b0515e1c46b",
     "promoId": "b2436c89-e0aa-4aed-8046-9b0515e1c46b",
     "event_timeout": 22,
@@ -126,7 +92,7 @@
     "event_id_method": "uuid4",
     "api_type": ""
   },
-  "Stone": {
+  "Stone Age": {
     "appToken": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
     "promoId": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
     "event_timeout": 23,
@@ -142,24 +108,7 @@
     "api_type": "1/",
     "get_client_count": 3
   },
-  "Fluff": {
-    "appToken": "112887b0-a8af-4eb2-ac63-d82df78283d9",
-    "promoId": "112887b0-a8af-4eb2-ac63-d82df78283d9",
-    "event_timeout": 185,
-    "headers": {
-      "User-Agent": "UnityPlayer/2022.3.27f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-      "X-Unity-Version": "2022.3.27f1"
-    },
-    "event_data": {
-      "eventOrigin": "undefined"
-    },
-    "login_client": { "clientOrigin": "deviceid" },
-    "client_id_method": "uuid4",
-    "event_id_method": "uuid4",
-    "api_type": "1/",
-    "get_client_count": 1
-  },
-  "Bounce": {
+  "Bouncemasters": {
     "appToken": "bc72d3b9-8e91-4884-9c33-f72482f0db37",
     "promoId": "bc72d3b9-8e91-4884-9c33-f72482f0db37",
     "event_timeout": 60,
@@ -177,7 +126,7 @@
     "api_type": "1/",
     "get_client_count": 0
   },
-  "HideBall": {
+  "Hide Ball": {
     "appToken": "4bf4966c-4d22-439b-8ff2-dc5ebca1a600",
     "promoId": "4bf4966c-4d22-439b-8ff2-dc5ebca1a600",
     "event_timeout": 32,
@@ -195,25 +144,7 @@
     "api_type": "1/",
     "get_client_count": 0
   },
-  "PinOut": {
-    "appToken": "d2378baf-d617-417a-9d99-d685824335f0",
-    "promoId": "d2378baf-d617-417a-9d99-d685824335f0",
-    "event_timeout": 34,
-    "headers": {
-      "User-Agent": "UnityPlayer/2022.3.41f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-      "X-Unity-Version": "2022.3.41f1"
-    },
-    "event_data": {
-      "eventOrigin": "undefined",
-      "eventType": "undefined"
-    },
-    "login_client": { "clientOrigin": "android", "clientVersion": "1.2.6" },
-    "client_id_method": "random_hex_32",
-    "event_id_method": "uuid4",
-    "api_type": "1/",
-    "get_client_count": 0
-  },
-  "CountMasters": {
+  "Count Masters": {
     "appToken": "4bdc17da-2601-449b-948e-f8c7bd376553",
     "promoId": "4bdc17da-2601-449b-948e-f8c7bd376553",
     "event_timeout": 33,
@@ -231,7 +162,7 @@
     "api_type": "1/",
     "get_client_count": 1
   },
-  "FactoryWorld": {
+  "Factory World": {
     "appToken": "d02fc404-8985-4305-87d8-32bd4e66bb16",
     "promoId": "d02fc404-8985-4305-87d8-32bd4e66bb16",
     "event_timeout": 120,
@@ -249,24 +180,7 @@
     "api_type": "1/",
     "get_client_count": 1
   },
-  "AmongWater": {
-    "appToken": "daab8f83-8ea2-4ad0-8dd5-d33363129640",
-    "promoId": "daab8f83-8ea2-4ad0-8dd5-d33363129640",
-    "event_timeout": 120,
-    "headers": {
-      "User-Agent": "UnityPlayer/2022.3.46f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-      "X-Unity-Version": "2022.3.46f1"
-    },
-    "event_data": {
-      "eventOrigin": "undefined"
-    },
-    "login_client": { "clientOrigin": "android", "clientVersion": "1.0.40" },
-    "client_id_method": "random_hex_32",
-    "event_id_method": "uuid4",
-    "api_type": "1/",
-    "get_client_count": 6
-  },
-  "InfectedFrontier": {
+  "Infected Frontier": {
     "appToken": "eb518c4b-e448-4065-9d33-06f3039f0fcb",
     "promoId": "eb518c4b-e448-4065-9d33-06f3039f0fcb",
     "event_timeout": 150,
@@ -284,7 +198,7 @@
     "api_type": "",
     "get_client_count": 0
   },
-  "SnakeRun": {
+  "Snake Run": {
     "appToken": "c8e017e2-8817-4d02-bce6-b951e74bb18f",
     "promoId": "c8e017e2-8817-4d02-bce6-b951e74bb18f",
     "event_timeout": 55,
@@ -302,7 +216,7 @@
     "api_type": "1/",
     "get_client_count": 1
   },
-  "CookingStories": {
+  "Cooking Stories": {
     "appToken": "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054",
     "promoId": "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054",
     "event_timeout": 60,
